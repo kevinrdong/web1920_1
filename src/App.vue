@@ -114,6 +114,7 @@ body {
     .Text-Style-2 {
       font-size: 30.1px;
       position: relative;
+      right: 15px;
     }
 
     .logo {
